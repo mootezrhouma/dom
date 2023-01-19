@@ -1,0 +1,53 @@
+
+  
+  .container {
+    display: flex;
+    margin: auto;
+    width: 60%;
+    margin-top: 50px;
+    height:900px;
+    justify-content: space-between;
+  }
+  
+  .container1 {
+    border-radius: 5px;
+    width: 50%;
+    margin: 15px;
+    padding: 32px;
+    background: #88B04B;
+  }
+  .child {
+    padding-bottom: 50px;
+    width: 100%;
+    height: auto;
+  }
+  
+  .price, .pric {
+
+    margin-top: 5px;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 600;
+    font-family: "Archivo Narrow";
+    line-height: 1.2em;
+    letter-spacing: 0em;
+    text-transform: none;
+    color: #330;
+    text-align: center;
+  }
+  
+  .bouton {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .icon {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #totals{
+    background-color: #88B04B;
+    width: 50px;
+  }
